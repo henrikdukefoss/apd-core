@@ -1,0 +1,31 @@
+---
+title: European LLM Price Index
+homepage: https://standardcompute.com/european-llm-price-index/data.json
+category: Economics
+description: Input and output list prices in US dollars per million tokens for 20 frontier and open language models on every inference provider that serves them, with the endpoints approved for a European region rule marked and the cheapest European option per model. Dated snapshot (as of 2026-11-09) as one JSON file.
+version: '2026-11-09'
+keywords: LLM, API pricing, tokens, inference providers, Europe, data residency, price comparison
+image:
+temporal: 2026-11
+spatial: Europe
+access_level: public
+copyrights:
+accrual_periodicity:
+specification:
+data_quality: false
+data_dictionary: https://standardcompute.com/european-llm-price-index
+language: en
+license:
+publisher:
+  - name: Standard Compute
+    web: https://standardcompute.com/
+organization:
+  - name: Standard Compute AS
+    web: https://standardcompute.com/
+issued_time: 2026.11
+sources:
+  - name: European LLM price index (JSON)
+    access_url: https://standardcompute.com/european-llm-price-index/data.json
+references:
+  - title: Method, notes and per-model tables
+    reference: https://standardcompute.com/european-llm-price-index
